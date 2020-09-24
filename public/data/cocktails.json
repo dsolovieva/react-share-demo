@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "blood and sand"
+  },
+  {
+    "id": 2,
+    "name": "irish coffee"
+  },
+  {
+    "id": 3,
+    "name": "brandy alexander"
+  },
+  {
+    "id": 4,
+    "name": "old cuban"
+  },
+  {
+    "id": 5,
+    "name": "bamboo"
+  },
+  {
+    "id": 6,
+    "name": "sidecar"
+  },
+  {
+    "id": 7,
+    "name": "vodka martini"
+  },
+  {
+    "id": 8,
+    "name": "ramos gin fizz"
+  },
+  {
+    "id": 9,
+    "name": "caipirinha"
+  },
+  {
+    "id": 10,
+    "name": "gin gin mule"
+  }
+]
