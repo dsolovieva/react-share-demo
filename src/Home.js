@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export const Home = () => {
   const [cocktails, setCocktails] = useState([]);
   useEffect(() => {
-    fetch("/data/cocktails.json")
+    fetch(`data/cocktails.json`)
       .then((response) => response.json())
       .then((data) => {
         setCocktails(data);
